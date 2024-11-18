@@ -12,20 +12,20 @@ if (true) {
 } else {
   console.log(farzad)  
 }
-//&&
-//||
+
+
 /*
 comment
 */
 
 switch (key) {
     case value:
-        
         break;
 
     default:
         break;
 }
+
 }
 
 
