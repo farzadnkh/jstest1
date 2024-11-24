@@ -59,7 +59,10 @@ function Car(make, model , year) {
 var car3 = new Car('ford' , 'mustang' , 1969);
 var car4 = new Car('Saipa' , '111' , 1800 );
 
+    
 
+
+j
 
 
 
